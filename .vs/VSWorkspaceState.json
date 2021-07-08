@@ -1,10 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\client",
     "\\client\\public",
     "\\client\\src",
-    "\\client\\src\\components"
+    "\\client\\src\\components",
+    "\\client\\src\\components\\footer"
   ],
-  "SelectedNode": "\\client",
+  "SelectedNode": "\\client\\src\\SocketContext.js",
   "PreviewInSolutionExplorer": false
 }
