@@ -4,8 +4,8 @@
     "\\client",
     "\\client\\public",
     "\\client\\src",
-    "\\client\\src\\components",
-    "\\client\\src\\components\\footer"
+    "\\client\\src\\components\\footer",
+    "\\teams-video-calling\\teams-video-calling"
   ],
   "SelectedNode": "\\client\\src\\SocketContext.js",
   "PreviewInSolutionExplorer": false
