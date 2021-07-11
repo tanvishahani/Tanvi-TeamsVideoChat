@@ -3,7 +3,7 @@
 This is the official submission for Microsoft Engage 2021. The following code contains a 1 on 1 video call feature to connect any two people.
 Here I have built a VideoCalling Website using WebRTC and deployed it.
 ![alt text](https://github.com/tanvishahani/Tanvi-TeamsVideoChat/blob/main/Images/WhatsApp%20Image%202021-07-11%20at%203.00.19%20PM.jpeg)
-![alt text](https://github.com/tanvishahani/Tanvi-TeamsVideoChat/blob/main/Images/WhatsApp%20Image%202021-07-11%20at%2010.18.30%20PM.jpeg)
+![alt text](https://github.com/tanvishahani/Tanvi-TeamsVideoChat/blob/main/Images/WhatsApp%20Image%202021-07-11%20at%2011.07.32%20PM.jpeg)
 
 # 2.  **Agile Methodology**
 The following task was accomplished using Agile Methodology which is a process that promotes continuous iteration of development and testing throughout the software development lifecycle of the project. It is one of the simplest and effective processes to turn a vision for a business need into software solutions. Agile is a term used to describe software development approaches that employ continual planning, learning, improvement, team collaboration, evolutionary development, and early delivery. It encourages flexible responses to change.
